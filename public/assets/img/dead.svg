@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 24 24"
+   version="1.1"
+   fill="#F4D2D3"
+   >
+    <g>
+      <circle
+         r="10"
+         cy="11.606929"
+         cx="12.393071"
+         style="stroke:#000000;stroke-width:0.529;stroke-opacity:1" />
+      <path
+         d="M 6.0006827,15.567612 17.999651,15.532362"
+         style="stroke:#000000;stroke-width:0.529;stroke-opacity:1;" />
+      <path
+         d="M 6.1662474,11.886119 8.8545465,9.1495107"
+         style="stroke:#000000;stroke-width:0.529;stroke-opacity:1;" />
+      <path
+         d="M 6.1151317,9.1882712 8.8818056,11.847357"
+         style="stroke:#000000;stroke-width:0.529;stroke-opacity:1;" />
+      <path
+         d="m 15.166247,11.886119 2.6883,-2.7366083"
+         style="stroke:#000000;stroke-width:0.529;stroke-opacity:1;" />
+      <path
+         d="m 15.115132,9.1882712 2.766674,2.6590858"
+         style="stroke:#000000;stroke-width:0.529;stroke-opacity:1;" />
+      <path
+         d="m 15.157854,15.532362 c -0.04151,0.129786 -0.07031,0.266242 -0.07031,0.410156 v 1.326172 c 0,0.74447 0.59928,1.34375 1.34375,1.34375 0.74447,0 1.34375,-0.59928 1.34375,-1.34375 v -1.326172 c 0,-0.143824 -0.0269,-0.28044 -0.06836,-0.410156 z"
+         style="opacity:1;fill:#b80000;fill-opacity:1;stroke:#000000;stroke-width:0.529;stroke-opacity:1" />
+    </g>
+</svg>
